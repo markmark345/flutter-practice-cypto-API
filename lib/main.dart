@@ -1,4 +1,4 @@
-import 'package:cyptoapp/screens.dart/screens.dart';
+import 'package:cyptoapp/screens/screens.dart';
 import 'package:flutter/material.dart';
 
 void main() {
